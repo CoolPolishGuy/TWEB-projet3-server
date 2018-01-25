@@ -27,7 +27,8 @@ const config = {
       name: 'mvc'
     },
     port: process.env.PORT || 3000,
-    db: 'mongodb://localhost/mvc-production'
+    //db: 'mongodb://localhost/mvc-production'
+    db:'mongodb://heroku_22vqmgnk:nej7crcpd47l924pjfsklmb917@ds025603.mlab.com:25603/heroku_22vqmgnk'
   }
 };
 
