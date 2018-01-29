@@ -27,6 +27,13 @@ you want to play you can have the link of the game at this following address
 
 https://grem25.github.io/TWEB-Gamification-AngularJS/#!/dashboard
 
+## Endpoints
+Here are some explanations about our endpoints
+https://fierce-sierra-52540.herokuapp.com/scoreboard => this allows to recieve all the informations from the current players
+https://fierce-sierra-52540.herokuapp.com/user => this allows you to create a new player 
+https://fierce-sierra-52540.herokuapp.com/battle => this is main endpoint that will make a fight between 2 people
+https://fierce-sierra-52540.herokuapp.com/init => this initiate the database with 15 players with random levels
+https://fierce-sierra-52540.herokuapp.com/clearData => Clears the database
 
 ## Authors
 Wojciech Myszkorowski & Jérémie Zanone 
